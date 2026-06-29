@@ -42,7 +42,7 @@ HotelReservationSystem/
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/reddyanusha1800/HotelReservationSystem.git
+git clone https://github.com/reddyanusha1800/CodeAlpha_HotelReservationSystem.git
 ```
 
 2. Open the project in VS Code.
