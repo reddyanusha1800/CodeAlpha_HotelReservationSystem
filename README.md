@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/3b699fca-5a39-454a-9cf2-fc471d7e921c
+
 # 🏨 Hotel Reservation System
 
 A Java-based Hotel Reservation System developed as part of the **CodeAlpha Java Programming Internship**. This project allows users to search available rooms, book hotel rooms, cancel reservations, manage bookings, process payments, and store reservation details using file handling.
